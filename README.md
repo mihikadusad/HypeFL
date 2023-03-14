@@ -7,3 +7,8 @@ HypeFL is a novel machine learning framework built on Hyperledger Fabric that co
 * Install [CARLA 0.9.12](https://carla.readthedocs.io/en/latest/start_quickstart/#carla-installation)
 * Install [Python 3.8](https://www.python.org/downloads/release/python-380/)
 * Install [Node.js](https://nodejs.org/en/)
+
+### Install Docker
+    > chmod +x docker.sh
+    > sudo ./docker.sh
+    > usermod -a -G docker ${USER}
