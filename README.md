@@ -9,10 +9,12 @@ HypeFL is a novel machine learning framework built on Hyperledger Fabric that co
 * Install [Node.js](https://nodejs.org/en/)
 
 ### Install Docker
-    > chmod +x docker.sh
-    > sudo ./docker.sh
-    > usermod -a -G docker ${USER}
-    
+``` 
+    chmod +x docker.sh
+    sudo ./docker.sh
+    usermod -a -G docker ${USER}
+```
+
 ## Training
 After cloning this Github into your directory, begin by training the federated learning object detection models.
 ```
