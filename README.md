@@ -15,4 +15,6 @@ HypeFL is a novel machine learning framework built on Hyperledger Fabric that co
     
 ## Training
 After cloning this Github into your directory, begin by training the federated learning object detection models.
-    python src/data/federated_data_extractor.py
+```
+pip install -r requirements.txt
+```
