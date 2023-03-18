@@ -22,3 +22,13 @@ After cloning this Github into your directory, begin by training the federated l
 cd Federated Learning
 python3 fl_train.py
 ```
+
+## Testing
+```
+    python3 fl_test.py
+```
+
+## Running HypeFL
+```
+    go run main.go
+```
