@@ -11,9 +11,9 @@ HypeFL is a novel machine learning framework built on Hyperledger Fabric that co
 
 ### Install Docker
 ``` 
-    chmod +x docker.sh
-    sudo ./docker.sh
-    usermod -a -G docker ${USER}
+chmod +x docker.sh
+sudo ./docker.sh
+usermod -a -G docker ${USER}
 ```
 
 ## Training
@@ -25,10 +25,10 @@ python3 fl_train.py
 
 ## Testing
 ```
-    python3 fl_test.py
+python3 fl_test.py
 ```
 
 ## Running HypeFL
 ```
-    go run main.go
+go run main.go
 ```
