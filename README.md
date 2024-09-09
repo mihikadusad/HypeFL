@@ -34,4 +34,4 @@ go run main.go
 ```
 
 ## Demo Video
-To view a demo video of the HypeFL network being used on the online CARLA simulator, as well as a physical setup of miniature Raspberry Pi powered autonomous vehicles, follow this [link](https://drive.google.com/file/d/1HG5p_acRlN7R0NNs4WG-GU_2cNJUwyyr/view?usp=sharing)
+To view a demo video of the HypeFL network being used on the online CARLA simulator, as well as a physical setup of miniature Raspberry Pi powered autonomous vehicles, follow this [link](https://drive.google.com/file/d/1HG5p_acRlN7R0NNs4WG-GU_2cNJUwyyr/view?usp=sharing).
