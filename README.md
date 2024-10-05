@@ -34,4 +34,4 @@ go run main.go
 ```
 
 ## Demo Video
-Follow this [link](https://drive.google.com/file/d/1HG5p_acRlN7R0NNs4WG-GU_2cNJUwyyr/view?usp=sharing) to view a demo video of the HypeFL network being used on the online CARLA simulator, as well as a physical setup of miniature Raspberry Pi-powered autonomous vehicles. Note that this project won third place overall in the Engineering Technology: Statics and Dynamics category of the 2023 International Science and Engineering Fair (ISEF), hosted in Dallas, Texas, along with a $1,000 grant.
+Follow this [link](https://drive.google.com/file/d/1HG5p_acRlN7R0NNs4WG-GU_2cNJUwyyr/view?usp=sharing) to view a demo video of the HypeFL network being used on the online CARLA simulator, as well as a physical setup of miniature Raspberry Pi-powered autonomous vehicles. This project won third place overall in the Engineering Technology: Statics and Dynamics category of the 2023 International Science and Engineering Fair (ISEF), hosted in Dallas, Texas, along with a $1,000 grant.
