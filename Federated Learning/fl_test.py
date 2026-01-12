@@ -1,0 +1,2 @@
+python3 'fl_main.py' "Carla Object Detection Dataset/Testing" --network_name fl --architecture block --model HypeFL --n_rounds 1000 --bz_train 32 --bz_test 32 --device cuda --log_freq 40 --local_steps 1 --lr 0.0001 --decay sqrt
+
