@@ -110,7 +110,7 @@ class Aggregator(object):
         }
 
     def get_model_description(self):
-        return "Good morning, Sir."
+        return "FL model class (Aggregator)"
 
 
 # Federated Averaging algorithm with the server pulling from clients
